@@ -1,4 +1,4 @@
-package com.deneme.retrofitandrecyclerview.util
+package com.kseyko.mvvmroomdagger.util
 
 
 /**     Code with ❤

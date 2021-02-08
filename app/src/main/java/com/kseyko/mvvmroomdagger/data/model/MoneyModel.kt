@@ -1,4 +1,4 @@
-package com.deneme.retrofitandrecyclerview.data.model
+package com.kseyko.mvvmroomdagger.data.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
@@ -13,9 +13,9 @@ import androidx.room.PrimaryKey
 ║      06,February,2021      ║
 ╚════════════════════════════╝
  */
-@Entity(tableName = "crypto")
-data class Crypto(
-    @PrimaryKey(autoGenerate = true) val id: Int=0,
+@Entity(tableName = "money")
+data class MoneyModel(
+    @PrimaryKey(autoGenerate = true) val id: Int = 0,
     val currency: String,
-    val price:String
+    val price: String
 )

@@ -1,4 +1,4 @@
-package com.deneme.retrofitandrecyclerview
+package com.kseyko.mvvmroomdagger
 
 import org.junit.Test
 
