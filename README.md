@@ -1,8 +1,8 @@
-AndroidTriviaNavigation - solution code
+Mvvm-DataBinding - solution code
 =======================================
 
-This app is the solution code for Databinding, Room Database,Dagger2, MVVM, Navigation, Retrofit,
-Hilt ,Coroutine and LiveData. With this app I tried to implement libraries which I sort above.
+This app is the solution code for Databinding, Room Database, MVVM, Navigation, Retrofit,
+Dagger-Hilt ,Coroutine and LiveData. With this app I tried to implement libraries which I sort above.
 I hope it helps to all android developers.
 
 Introduction
